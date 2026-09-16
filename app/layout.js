@@ -1,4 +1,5 @@
 import './globals.css';
+import Providers from '@/components/Providers';
 
 export const metadata = {
   title: 'NIM Lab AI — Intelligence for a Smarter Infrastructure',
@@ -16,7 +17,9 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
         />
       </head>
-      <body className="font-sans">{children}</body>
+      <body className="font-sans">
+        <Providers>{children}</Providers>
+      </body>
     </html>
   );
 }

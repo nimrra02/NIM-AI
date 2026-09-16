@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NIM Lab AI
 
 A Next.js (App Router) build of NIM Lab AI: a marketing landing page plus a
@@ -51,3 +52,6 @@ Then open `http://localhost:3000` for the landing page, and
   languages (light marketing site vs. dark ops console) — that split is
   common for infra products (e.g. Vercel, Datadog) and is easy to keep or
   merge depending on your pitch.
+=======
+# NIM-AI
+>>>>>>> ec0dc8cfd9ac9c002020b80b8208599f4b629477
